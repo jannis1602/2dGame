@@ -1,2 +1,2 @@
 # 2dGame
-2d game just for fun
+2d java game just for fun
